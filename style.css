@@ -1,0 +1,46 @@
+body {
+  background: #cae4db;
+}
+
+h3 {
+  color: #ff881b;
+}
+
+header {
+  height: 100px;
+  background: #00303f;
+  padding-top: 30px;
+}
+
+h1 {
+  font-family: cursive;
+  color: white;
+  text-align: center;
+}
+
+img {
+  float: right;
+  height: 150px;
+  margin-right: 15px;
+  border: 2px solid black;
+}
+
+main {
+  height: 200px;
+  color: #00303f;
+}
+
+section {
+  padding: 1px;
+  clear: both;
+/*   background: #dcae00; */
+  border-top: 1px solid black;
+}
+
+a {
+  color: #00303f;
+}
+
+aside {
+  border-top: 1px solid black;
+}
