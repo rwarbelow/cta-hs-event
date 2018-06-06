@@ -1,28 +1,8 @@
-# CTA High School Outreach Event
-
-### Details
-
-Location: CSU Denver Center, 475 17th St, Suite 300, Denver, CO
-Date: Friday, July 14
-Time: Setup at 8am, Class #1 from 9am - 10:30am and Class #2 from 10:45am - 12:15pm
-
-### Intro
-
-* Staff + TA Intros
-* What is coding?
-* What can you do with code? 
-
-### Setup
-
-1) Sign up for GH account and verify email address
-2) Make a GH repo called username.github.io with a README (don't forget this part!)
-3) Add a new file `index.html` with "Hello, World!" inside (no HTML). 
-4) Click on "Settings" and scroll to GH pages. Select "Master" and click "Save". 
-5) Refresh the page until the link turns green, then click on it. Tada! This is a link you can share with your family, and we'll build out the rest of the page today. 
+# Raw Femme "Code Like a Girl" Event
 
 ### Creating a Header with Codepen 
 
-1) In another tab, go to codepen.io and click "Create" in upper right-hand corner and select "New Pen". Explain to students that Codepen will be our "draft" area where we figure out what looks good, then once we have it, we'll add it over in Github.
+1) Go to codepen.io and click "Create" in upper right-hand corner and select "New Pen". Explain to students that Codepen will be our "draft" area where we figure out what looks good.
 2) Type `doc-tab` in HTML which will generate the basic HTML: this bit of code that will tell our browser (Chrome/Firefox) that we are writing an HTML document in addition to creating the spaces for us to write our code. 
 3) Ask students: What do you notice about the code here? angle brackets, opening and closing tags, etc.
 4) Look at <body> tag: this is where we will put all of the content for our website.
@@ -53,11 +33,3 @@ Time: Setup at 8am, Class #1 from 9am - 10:30am and Class #2 from 10:45am - 12:1
 1) a-tab to create a link. Show students how to add user-facing text and how to add link address. Emphasize that the link address needs to be the WHOLE address. 
 2) Style the link using the color property. 
 3) Style hovering over the link using the `hover` pseudoclass. 
-
-### Shipping Code
-
-1) Don't forget to have students add a `<link rel="stylesheet" type="text/css" href="style.css">` to the head of their HTML doc.
-2) Have students go back to GH and click the edit button of their index file. Delete Hello World.
-3) Go back to codepen and copy all html. Paste it into the file and click save. 
-4) Add a new file called style.css and paste in all CSS from codepen. Click save. 
-5) Save and refresh username.github.io. 
