@@ -15,6 +15,11 @@ body {
 
 .banner h1 {
   font-size: 70px;
+  color: white;
+}
+
+.banner h2 {
+  color: #8b0036;
 }
 
 .midcontainer {
