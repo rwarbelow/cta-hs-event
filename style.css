@@ -19,7 +19,11 @@ body {
 }
 
 .banner h2 {
-  color: #8b0036;
+  color: white;
+}
+
+p {
+  text-align: center;
 }
 
 .midcontainer {
